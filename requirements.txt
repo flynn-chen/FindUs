@@ -1,5 +1,8 @@
 requests==2.0.1
 selenium==2.41.0
 us==0.7.1
+numpy==1.19.2
+notebook==5.7.0
+pandas==1.1.2
 psycopg2==2.5.2
-Flask==0.10.1
+webdriver_manager==3.2.2
