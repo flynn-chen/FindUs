@@ -1,7 +1,7 @@
 FindUs
 =====
 
-FindUs is a Python tool for gathering information on missing persons.
+FindUs is a Python script for gathering information on missing persons.
 
 ## Installation
 
