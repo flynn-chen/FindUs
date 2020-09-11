@@ -19,7 +19,7 @@ jupyter notebook
 
 - [Introduction to Selenium](IntroductionToSelenium.ipynb)
 - [Extracting Data from NamUs](Namus.ipynb)
-- [Running Find Us](FindUs.ipynb)
+- [Running Find Us](FindUs.PACER.ipynb)
 
 
 ## Contributing
